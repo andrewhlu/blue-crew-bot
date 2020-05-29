@@ -1,0 +1,24 @@
+{
+  "name": "blue-crew-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewhlu/blue-crew-bot.git"
+  },
+  "author": "Andrew Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewhlu/blue-crew-bot/issues"
+  },
+  "homepage": "https://github.com/andrewhlu/blue-crew-bot#readme"
+}
